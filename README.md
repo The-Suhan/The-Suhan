@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Suhan
 
-<!--
-**The-Suhan/The-Suhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **About Me**  
+🧑‍💻 Role: Full Stack Developer  
+📅 Experience: 1 year  
+⚡ Focus: Clean UI & UX, scalable frontend & backend architecture, performance  
 
-Here are some ideas to get you started:
+🌐 **Connect with me**  
+✉️ [Email](mailto:nikegaming780@gmail.com) | 💬 [Telegram](https://t.me/B_Suhan) | 📸 [Instagram](https://www.instagram.com/suhan_09.06) | 🎵 [TikTok](https://tiktok.com/@suhan_09.06)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ **Tech Stack**
+
+**Frontend**  
+- 🖥️ Languages: TypeScript, JavaScript, HTML5, CSS3  
+- ⚛️ Frameworks / Libraries: Vue.js, Nuxt.js  
+- 🎨 Styling: TailwindCSS, SASS, Bootstrap  
+
+**Backend**  
+- 🗄️ Languages / Frameworks: Node.js, PHP, Laravel  
+- 💾 Databases: PostgreSQL, MySQL  
+
+🔧 **Tools**  
+Vite, npm, Git, GitHub, Vitest 
+
+#
+
+
+- 🌱 Learned life too early, never felt love. 
+- ⚡ Grew up surviving, never embraced. 
+- 🖤 Life taught me fast, love never came.
