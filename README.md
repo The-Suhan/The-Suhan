@@ -51,11 +51,8 @@
 
 ## 🚀 Deploy
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![PM2](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white)
 
 ---
 
-## 🖤 Personal
-- 🌱 Learned life too early, never felt love.  
-- ⚡ Grew up surviving, never embraced.  
-- 🖤 Life taught me fast, love never came.  
+- 🌱 Learned life too early, never felt love.
+  
