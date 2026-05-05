@@ -17,7 +17,7 @@
 ---
 
 ## 🌍 Portfolio
-🔗 Live: https://begenjovportfolio.vercel.app/
+[![Live Portfolio](https://img.shields.io/badge/🚀_Live_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://begenjovportfolio.vercel.app/)
 
 ---
 
