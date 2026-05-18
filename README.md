@@ -62,6 +62,3 @@
 
 ---
 
-- 🕊️ Learned life too early, never felt love.
-- 🌌 chasing something real 
-  
