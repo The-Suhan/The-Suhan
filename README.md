@@ -10,7 +10,7 @@
 ╚═════╝ ╚══════╝  ╚═══╝
 ```
 
-### `~/Suhan Begenjov` — Full Stack Developer
+### `~/Suhan Begenjov` — Software Developer
 
 [![committers.top badge](https://user-badge.committers.top/turkmenistan_private/The-Suhan.svg)](https://user-badge.committers.top/turkmenistan_private/The-Suhan)
 
