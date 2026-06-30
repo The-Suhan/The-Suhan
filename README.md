@@ -20,7 +20,7 @@
 
 ```bash
 $ whoami
-> Full Stack Developer · 1 year experience
+> Software Developer · 1 year experience
 > Focus: Clean UI/UX · Scalable architecture · Performance
 ```
 
