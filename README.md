@@ -10,7 +10,7 @@
 ╚═════╝ ╚══════╝  ╚═══╝
 ```
 
-### `~/Suhan Begenjov` — Software Developer
+### `~/Suhan Begenjov` — Software Engineer
 
 [![committers.top badge](https://user-badge.committers.top/turkmenistan_private/The-Suhan.svg)](https://user-badge.committers.top/turkmenistan_private/The-Suhan)
 
@@ -20,7 +20,7 @@
 
 ```bash
 $ whoami
-> Software Developer · 1 year experience
+> Full stack Web Developer · 1 year experience
 > Focus: Clean UI/UX · Scalable architecture · Performance
 ```
 
