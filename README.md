@@ -58,6 +58,10 @@ $ whoami
 ![Laravel](https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white)
 
+**Mobile**
+
+![Android Studio](https://img.shields.io/badge/Android_Studio-000000?style=for-the-badge&logo=androidstudio&logoColor=white)
+
 **Database**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -87,7 +91,8 @@ $ whoami
 <div align="center">
 
 ```
-$ git commit -m "ship it" ▌
+$ git commit -m "ship it"
+▌
 ```
 
 </div>
