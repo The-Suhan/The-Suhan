@@ -60,7 +60,10 @@ $ whoami
 
 **Mobile**
 
-![Android Studio](https://img.shields.io/badge/Android_Studio-000000?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white)
+![XML](https://img.shields.io/badge/XML-000000?style=for-the-badge&logo=xml&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-000000?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 
 **Database**
 
