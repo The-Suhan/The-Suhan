@@ -86,7 +86,7 @@ $ whoami
 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![PM2](https://img.shields.io/badge/PM2-000000?style=for-the-badge&logo=pm2&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-000000?style=for-the-badge&logo=ubuntu&logoColor=white)
+![CachyOS](https://img.shields.io/badge/CachyOS-000000?style=for-the-badge&logo=cachyos&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-000000?style=for-the-badge&logo=nginx&logoColor=white)
 
 ---
