@@ -69,10 +69,10 @@ currently: Building fast, well-structured web & mobile apps
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=The-Suhan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
+<img src="https://github-readme-stats-tau-ruddy-45.vercel.app/api?username=The-Suhan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
 <img src="https://streak-stats.demolab.com/?user=The-Suhan&theme=tokyonight&hide_border=true" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-Suhan&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
+<img src="https://github-readme-stats-tau-ruddy-45.vercel.app/api/top-langs/?username=The-Suhan&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
 
 </div>
 
@@ -81,7 +81,7 @@ currently: Building fast, well-structured web & mobile apps
 ## 🏆 Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=The-Suhan&theme=tokyonight&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy-wine-kappa.vercel.app/?username=The-Suhan&theme=tokyonight&no-frame=true&row=1&column=6" />
 </div>
 
 <br/>
