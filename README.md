@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Suhan%20Begenjov&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20%26%20Android%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+# Suhan Begenjov
+### Full Stack & Android Developer
 
 <br/>
 
@@ -61,27 +62,6 @@ currently: Building fast, well-structured web & mobile apps
 <br/>
 <img src="https://skillicons.dev/icons?i=vite,npm,git,github,vitest,vercel,nginx&theme=dark" />
 
-</div>
-
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats-tau-ruddy-45.vercel.app/api?username=The-Suhan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
-<img src="https://streak-stats.demolab.com/?user=The-Suhan&theme=tokyonight&hide_border=true" width="49%" />
-
-<img src="https://github-readme-stats-tau-ruddy-45.vercel.app/api/top-langs/?username=The-Suhan&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
-
-</div>
-
-<br/>
-
-## 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy-wine-kappa.vercel.app/?username=The-Suhan&theme=tokyonight&no-frame=true&row=1&column=6" />
 </div>
 
 <br/>
