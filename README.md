@@ -24,6 +24,7 @@
 ```yaml
 name: Suhan Begenjov
 role: Full Stack Web Developer · Android Developer
+nationality: Turkmen
 experience: 1 year
 focus:
   - Clean UI/UX
