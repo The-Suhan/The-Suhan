@@ -1,101 +1,108 @@
-<!-- terminal header -->
 <div align="center">
 
-```
-██████╗ ███████╗██╗   ██╗
-██╔══██╗██╔════╝██║   ██║
-██║  ██║█████╗  ██║   ██║
-██║  ██║██╔══╝  ╚██╗ ██╔╝
-██████╔╝███████╗ ╚████╔╝
-╚═════╝ ╚══════╝  ╚═══╝
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Suhan%20Begenjov&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20%26%20Android%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-### `~/Suhan Begenjov` — Software Engineer
+<br/>
 
-[![committers.top badge](https://user-badge.committers.top/turkmenistan_private/The-Suhan.svg)](https://user-badge.committers.top/turkmenistan_private/The-Suhan)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Android+%2F+Kotlin+Developer;Clean+UI+%C2%B7+Scalable+Architecture;Always+learning%2C+always+building" alt="Typing SVG" />
+
+<br/><br/>
+
+[![Portfolio](https://img.shields.io/badge/🚀_Portfolio-A78BFA?style=for-the-badge&logoColor=white)](https://begenjovportfolio.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suxanoff07@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/B_Suhan)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/suhan_09.06)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@suhan_09.06)
 
 </div>
 
----
+<br/>
 
-```bash
-$ whoami
-> Full stack Web Developer · Android Developer · 1 year experience
-> Focus: Clean UI/UX · Scalable architecture · Performance
+## 👨‍💻 About Me
+
+```yaml
+name: Suhan Begenjov
+role: Full Stack Web Developer · Android Developer
+experience: 1 year
+focus:
+  - Clean UI/UX
+  - Scalable architecture
+  - Performance optimization
+currently: Building fast, well-structured web & mobile apps
 ```
 
----
+<br/>
 
-## `// connect`
-
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suxanoff07@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/B_Suhan)
-[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/suhan_09.06)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@suhan_09.06)
-[![Portfolio](https://img.shields.io/badge/🚀_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://begenjovportfolio.vercel.app/)
-
----
-
-## `// stack`
-
-**Languages**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white)
-
-**Frontend**
-
-![Vue.js](https://img.shields.io/badge/Vue.js-000000?style=for-the-badge&logo=vue.js&logoColor=white)
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-000000?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-000000?style=for-the-badge&logo=sass&logoColor=white)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white)
-
-**Mobile**
-
-![Kotlin](https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white)
-![XML](https://img.shields.io/badge/XML-000000?style=for-the-badge&logo=xml&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-000000?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-
-**Database**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
-
----
-
-## `// tools`
-
-![Vite](https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=white)
-![npm](https://img.shields.io/badge/npm-000000?style=for-the-badge&logo=npm&logoColor=white)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-000000?style=for-the-badge&logo=vitest&logoColor=white)
-
----
-
-## `// deploy`
-
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![PM2](https://img.shields.io/badge/PM2-000000?style=for-the-badge&logo=pm2&logoColor=white)
-![CachyOS](https://img.shields.io/badge/CachyOS-000000?style=for-the-badge&logo=cachyos&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-000000?style=for-the-badge&logo=nginx&logoColor=white)
-
----
+## 🧠 Tech Stack
 
 <div align="center">
 
-```
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=ts,js,html,css&theme=dark" />
+
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=vue,nuxt,tailwind,sass&theme=dark" />
+
+**Backend**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,laravel,php&theme=dark" />
+
+**Mobile**
+<br/>
+<img src="https://skillicons.dev/icons?i=kotlin,java,xml&theme=dark" />
+
+**Database**
+<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" />
+
+**Tools & Deploy**
+<br/>
+<img src="https://skillicons.dev/icons?i=vite,npm,git,github,vitest,vercel,nginx&theme=dark" />
+
+</div>
+
+<br/>
+
+## 📊 GitHub Stats
+
+> Replace `https://github.com/The-Suhan` below with your actual GitHub username so these cards render your real data.
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=https://github.com/The-Suhan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/The-Suhan&theme=tokyonight&hide_border=true" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/The-Suhan&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
+
+</div>
+
+<br/>
+
+## 🏆 Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=https://github.com/The-Suhan&theme=tokyonight&no-frame=true&row=1&column=6" />
+</div>
+
+<br/>
+
+## 📈 Contribution Graph
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=https://github.com/The-Suhan&theme=tokyo-night&hide_border=true" width="100%"/>
+</div>
+
+<br/>
+
+<div align="center">
+
+```bash
 $ git commit -m "ship it"
 ▌
 ```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
 
 </div>
